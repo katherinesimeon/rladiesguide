@@ -43,7 +43,7 @@ Here are instructions for adding an email account to an [iPhone](https://help.dr
     - Authentication: Normal password
 
   - OUTGOING (SMTP)
-    - server host name: mail.rladies.org
+    - server host name: smtp.dreamhost.com
     - port: 587
 
   - USERNAME
